@@ -50,7 +50,7 @@ destination: ./_site
 plugins:     ./_plugins
 layouts:     ./_layouts
 include:     ['.htaccess']
-exclude:     []
+exclude:     ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor']
 timezone:    nil
 
 # Show future posts
@@ -127,3 +127,4 @@ assets:
   cache: false
   gzip: [ text/css, application/javascript ]
   debug: false
+

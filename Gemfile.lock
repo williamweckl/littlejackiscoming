@@ -115,6 +115,9 @@ GEM
       posix-spawn (~> 0.3.6)
       yajl-ruby (~> 1.1.0)
     rack (1.6.0)
+    rack-jekyll (0.3.5)
+      jekyll
+      rack
     rake (10.4.2)
     rb-fsevent (0.9.4)
     rb-inotify (0.9.5)
@@ -155,6 +158,7 @@ DEPENDENCIES
   jekyll
   jekyll-assets
   kramdown
+  rack-jekyll
   rake
   sass
   uglifier

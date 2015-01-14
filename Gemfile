@@ -1,7 +1,9 @@
 source 'https://rubygems.org'
+ruby '2.2.0'
 
 gem 'jekyll'
 gem 'jekyll-assets'
+gem 'rack-jekyll'
 gem 'kramdown'
 gem 'rake'
 gem 'sass'
