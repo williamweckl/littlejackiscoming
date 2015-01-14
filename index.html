@@ -1,0 +1,59 @@
+---
+layout: base
+---
+<div class="blog-cover" style="background-image:url(/images/{{ site.inc.cover_image }});">
+    
+    <section>
+        <div class="container">
+            <h1>{{ site.inc.title }}</h1>
+            {% if site.inc.subtitle %}<h3>{{ site.inc.subtitle }}</h3>{% endif %}
+            {% if site.inc.subtitle_fist_line %}<h3>{{ site.inc.subtitle_fist_line }}</h3>{% endif %}
+            {% if site.inc.subtitle_second_line %}<h3>{{ site.inc.subtitle_second_line }}</h3>{% endif %}
+
+            {% if site.inc.twitter %}
+            <a href="https://twitter.com/{{ site.inc.twitter }}" title="Follow on Twitter" target="_blank"><i class="icon icon-twitter"></i></a>
+            {% endif %}
+            {% if site.inc.facebook %}
+            <a href="http://facebook.com/{{ site.inc.facebook }}" title="Facebook Victoria Dipp" target="_blank" class="facebook-square"><i class="icon icon-facebook"></i></a>
+            {% endif %}
+            {% if site.inc.instagram %}
+            <a href="http://instagram.com/{{ site.inc.instagram }}" title="Instagram" target="_blank" class="instagram-square"><i class="icon icon-instagram"></i></a>
+            {% endif %}
+            {% if site.inc.facebook_second %}
+            <a href="http://facebook.com/{{ site.inc.facebook_second }}" title="Facebook William Weckl" target="_blank" class="facebook-square"><i class="icon icon-facebook"></i></a>
+            {% endif %}
+        </div>
+    </section>
+</div>
+
+
+<article class="container">
+{% for post in paginator.posts %}
+  {% unless post.draft %}
+    <section class="index">
+        {% if post.index_image %}<img src="/images/{{ post.index_image }}" class="avatar">{% endif %}
+        <div>
+            <h2 class="title"><a href="{{ post.url }}" rel="prefetch">{{ post.title }}</a></h2>
+            <p>{{ post.excerpt }}</p>
+            <div class="meta">
+                Escrito por <address>{{ post.author.name }}</address> &mdash;
+                <time pubdate datetime="{{ post.date | date: "%d/%m/%Y" }}" title="{{ post.date | date: "%d/%m/%Y" }}">{{ post.date | date: "%d/%m/%Y" }}</time>
+            </div>
+        </div>
+        <hr>
+    </section>
+    {% endunless %}
+    {% endfor %}
+    <section class="pagination" style="text-align:center">
+      {% if paginator.previous_page %}
+        {% if paginator.previous_page == 1 %}
+        <a href="/" class="btn btn-outline">‹ Newer</a>
+        {% else %}
+        <a href="/page{{ paginator.previous_page }}" class="btn btn-outline">‹ Newer</a>
+        {% endif %}
+      {% endif %}
+      {% if paginator.next_page %}
+        <a href="/page{{ paginator.next_page }}" class="btn btn-outline">Older ›</a>
+      {% endif %}
+    </section>
+</article>
