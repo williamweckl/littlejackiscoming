@@ -3,8 +3,8 @@ layout: post
 
 title: O Começo
 subtitle: "What's in the box"
-cover_image: posts/2015-01-13-nossa-historia/cover.jpg
-index_image: posts/2015-01-13-nossa-historia/index.jpg
+cover_image: posts/start_cover.jpg
+index_image: posts/start_index.jpg
 
 excerpt: "Conheça um pouco sobre nós e sobre a descoberta que mudou nossas vidas."
 
@@ -33,6 +33,8 @@ Sabendo disso, pode-se concluir facilmente que no momento está de quase 5 meses
 
 Apesar do tempo, ainda não sabemos o sexo do bebê (isso também explica o título do blog) pois ele estava sentado quando fizemos a eco. Façam suas apostas! hahahha
 
+Também ainda não escolhemos nomes.
+
 Bom. Antes de mais nada, alguns conselhos:
 
 * Cuidado com antibióticos enquanto está tomando anticoncepcional
@@ -40,11 +42,19 @@ Bom. Antes de mais nada, alguns conselhos:
 
 Imagino que vocês devam saber o porque de estarmos dizendo isso. Esperamos não ter q entrar em detalhes. hahaha
 
-Bom, a idéia do blog é postarmos a evolução à quem interessa e talvez ganhar alguma ajuda. Portanto, se você quiser contribuir com a causa, faça sua doação. =)
+Bom, a idéia do blog é postarmos a evolução à quem interessa e talvez receber alguma ajuda. 
 
-Sobre as doações, para quem não conhece, o paypal é um sistema de pagamento que pode ser integrado em sites (basicamente é isso) e já existe a bastante tempo. 
- Portanto, pode ficar tranquilo quanto a segurança. Pode ser doado qualquer valor, portanto se você leu até aqui, não tem desculpas para não doar, né?! 
- Brincadeira, todos são muito bem vindos à acompanhar independente de doações.
+## Como posso ajudar?
+
+Sabemos que será um desafio, não estavamos nem estamos preparados. Mas, acredito que ninguém nunca está.
+
+Caso você tenha simpatizado com a causa, goste de nós, já passou por isso ou simplesmente curtiu a ideia do blog, há muitas maneiras de você nos ajudar.
+
+Criamos um post sobre dicas. Você que já teve essa surpresa ou conhece alguém que passou por isso, ou ainda que tenha planejado, pode contribuir com a sua experiência. Pode acabar nos ajudando bastante e quem sabe sua dica não vira um post... =)
+
+Para arrecadar fundos, estamos também nos desfazendo de algumas coisas. Da uma olhada la, vai que você gosta de algo.
+
+Mas, se você não pode contribuir com dicas e não quer comprar nada, pode também nos fazer uma doação. Não há valor mínimo e qualquer quantia estaria nos ajudando muito.
 
 Convidamos vocês a conhecerem nossa história acompanhando essa evolução que nos trará muita felicidade.
 
