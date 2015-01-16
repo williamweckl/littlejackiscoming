@@ -1,0 +1,22 @@
+.status {
+
+  width: 100%;
+  padding-bottom: 20px;
+  display: inline-block;
+
+  .status-image {
+    float: left;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    margin-right: 20px;
+  }
+
+  .progress {
+//    float: left;
+//    width: 75%;
+    margin-top: 85px;
+  }
+
+}

@@ -14,7 +14,7 @@ author:
   name: William e Victoria
   gplus: 100687498195339762535 
   bio: Novos (porém não menos responsáveis) pais de família
-  image: wv.jpg
+  image: wv2.jpg
 ---
 
 Vamos começar nos apresentando.
@@ -50,9 +50,9 @@ Sabemos que será um desafio, não estavamos nem estamos preparados. Mas, acredi
 
 Caso você tenha simpatizado com a causa, goste de nós, já passou por isso ou simplesmente curtiu a ideia do blog, há muitas maneiras de você nos ajudar.
 
-Criamos um post sobre dicas. Você que já teve essa surpresa ou conhece alguém que passou por isso, ou ainda que tenha planejado, pode contribuir com a sua experiência. Pode acabar nos ajudando bastante e quem sabe sua dica não vira um post... =)
+Criamos um post sobre [dicas](/2015/01/15/dicas/). Você que já teve essa surpresa ou conhece alguém que passou por isso, ou ainda que tenha planejado, pode contribuir com a sua experiência. Pode acabar nos ajudando bastante e quem sabe sua dica não vira um post... =)
 
-Para arrecadar fundos, estamos também nos desfazendo de algumas coisas. Da uma olhada la, vai que você gosta de algo.
+Para arrecadar fundos, estamos também nos desfazendo de algumas [coisas](/2015/01/15/bazar/). Da uma olhada la, vai que você gosta de algo.
 
 Mas, se você não pode contribuir com dicas e não quer comprar nada, pode também nos fazer uma doação. Não há valor mínimo e qualquer quantia estaria nos ajudando muito.
 
