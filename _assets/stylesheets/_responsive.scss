@@ -15,6 +15,12 @@
 
 }
 
+@media (min-width: 970px) {
+  .site-nav .tagline {
+    width: 640px;
+  }
+}
+
 @media (max-width: 720px) {
     
     article {
