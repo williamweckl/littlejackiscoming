@@ -11,25 +11,25 @@
     <link href="{{ site_url }}/feed.xml" rel="alternate" type="application/rss+xml" title="{{ site.inc.title }}" />
     <meta name="title" content="{% if page.title %}{{ page.title }} {% else %}{{ site.inc.title }}{% endif %}">
     <link rel="canonical" href="{{ site.url }}{{ page.url }}">
-    {% if page.site.gplus %}<link rel="publisher" href="https://plus.google.com/{{ site.inc.gplus }}">{% endif %} 
-    {% if page.author.gplus %}<link rel="author" href="https://plus.google.com/{{ page.author.gplus }}">{% endif %}       
+    {% if page.site.gplus %}<link rel="publisher" href="https://plus.google.com/{{ site.inc.gplus }}">{% endif %}
+    {% if page.author.gplus %}<link rel="author" href="https://plus.google.com/{{ page.author.gplus }}">{% endif %}
     <meta property="og:title" content="{% if page.title %}{{ page.title }} {% else %}{{ site.inc.title }}{% endif %}"/>
     <meta property="og:url" content="{{ site.url }}{{ page.url }}"/>
     {% if page.cover_image %}
     <meta property="og:image" content="{{ site.url }}/images/{{ page.cover_image }}"/>
     {% if page.main_image %}
-    <meta property="og:image" content="{{ site.url }}/images/{{ page.main_image }}"/>  
+    <meta property="og:image" content="{{ site.url }}/images/{{ page.main_image }}"/>
     {% endif %}
-    <meta property="og:image" content="{{ site.url }}/images/{{ site.inc.logo }}"/>   
+    <meta property="og:image" content="{{ site.url }}/images/{{ site.inc.logo }}"/>
     {% endif %}
     {% if page.excerpt %}
     <meta property="og:description" content="{{ page.excerpt }}"/>
     <meta name="description" content="{{ page.excerpt }}"/>
     {% endif %}
-    <meta property="og:site_name" content="{{ site.inc.title }}">     
+    <meta property="og:site_name" content="{{ site.inc.title }}">
 </head>
 <body>
-    
+
 <section class="site-nav">
     <header>
         <nav id="navigation">
@@ -40,14 +40,14 @@
             {% if site.inc.about_link %}<a href="{{ site.inc.about_link }}">Nossa história</a>{% endif %}
         </nav>
         <nav class="tagline">
-            {% if site.inc.tagline %}<span>{{ site.inc.tagline }}</span>{% endif %}
+                {% if site.inc.tagline %}<span>{{ site.inc.tagline }}</span>{% endif %}
+            <div class="hidden-xs hidden-sm">
             <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
                 <input type="hidden" name="cmd" value="_s-xclick">
                 <input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----
 ">
                 <button type="submit" class="btn btn-outline">Doações</button>
             </form>
-            <div class="sr-only">
                 <a href="/2015/01/15/dicas/" class="btn btn-outline">Dê Dicas</a>
                 <a href="/2015/01/15/bazar/" class="btn btn-outline">Compre algo nosso</a>
             </div>
@@ -59,15 +59,15 @@
 
 <footer class="site-footer">
     <div class="container">
-        &copy; {{ site.time | date: "%Y" }} 
-        
+        &copy; {{ site.time | date: "%Y" }}
+
         <nav>
             <a href="/">Blog</a> &middot;
             {% if site.inc.about_link %}<a href="{{ site.inc.about_link }}">Nossa história</a> &middot;{% endif %}
             <a href="/2015/01/15/dicas/">Dê Dicas</a> &middot;
             <a href="/2015/01/15/bazar/">Compre algo nosso</a>
         </nav>
-        
+
         <nav class="social">
             {% if site.inc.twitter %}
             <a href="https://twitter.com/{{ site.inc.twitter }}" title="Follow on Twitter" target="_blank"><i class="icon icon-twitter black"></i></a>
