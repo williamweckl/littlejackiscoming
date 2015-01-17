@@ -1,0 +1,22 @@
+.ad-top-index {
+  width: 100%;
+  text-align: center;
+
+  ins {
+    display: inline-block;
+  }
+
+}
+
+.ad-right-index {
+  float: right;
+  margin-right: -300px;
+}
+
+@media (max-width: 1435px) {
+
+  .ad-right {
+    display: none!important;
+  }
+
+}
