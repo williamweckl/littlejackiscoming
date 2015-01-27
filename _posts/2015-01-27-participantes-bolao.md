@@ -34,3 +34,5 @@ Quem pagou está em negrito.
 * Cláudia Soares Dipp - 31/05
 * Victoria Dipp - 02/06
 * Irene Weckl - 30/05
+* Jean Dellê - 27/05
+* Christian Weckl - 21/05
