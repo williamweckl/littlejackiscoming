@@ -23,7 +23,7 @@ Quem pagou está em negrito.
 
 ### Equipe feminina (risos)
 
-* William Weckl - 29/30
+* William Weckl - 29/05
 * **Rodrigo Motoki** - 04/06
 * Erika Santos - 29/05
 * Ilse Becker - 31/05
