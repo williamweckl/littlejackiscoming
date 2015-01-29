@@ -36,3 +36,7 @@ Quem pagou está em negrito.
 * Irene Weckl - 30/05
 * Jean Dellê - 27/05
 * Christian Weckl - 21/05
+* Geraldo Weckl - 31/05
+* Mariana Gärtner - 11/06
+* Brigit Weckl - 11/05
+* Veronica Gärtner - 09/06
