@@ -28,6 +28,8 @@ Quem pagou está em negrito.
 * Erika Santos - 29/05
 * Ilse Becker - 31/05
 * Katarina Becker - 30/05
+* Priscilla Soares Arenhart - 25/05
+* Kerollen Nadaline - 28/05
 
 ### Equipe masculina 
 
@@ -40,3 +42,5 @@ Quem pagou está em negrito.
 * Mariana Gärtner - 11/06
 * Brigit Weckl - 11/05
 * Veronica Gärtner - 09/06
+* Rodrigo Bonat - 01/06
+* Karoline Nadaline - 07/06
